@@ -33,6 +33,7 @@ gem 'betterlorem'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
+  gem 'shoulda'
 end
 
 group :development, :test do
